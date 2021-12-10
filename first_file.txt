@@ -2,4 +2,9 @@
 Test ALESS
 =======
 im adding soem content
+<<<<<<< HEAD
 >>>>>>> cb96df93bf71f9489f2c6245eaef53c688e79a3e
+=======
+
+hehe im conflicts are here
+>>>>>>> 569e4c06527fc3b6e166192243706cb6e0f0e765
